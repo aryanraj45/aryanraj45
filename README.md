@@ -54,15 +54,13 @@
 
 ### 🛠️ Tools & Platforms
 <p align="left">
-  <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/github-original.svg" alt="GitHub" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/visual-studio-code.svg" alt="VS Code" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/postman.svg" alt="Postman" height="40" />
-  <img src="https://profilinator.rishav.dev/skills-assets/vercel-icon.svg" alt="Vercel" height="40" />
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" height="40" />
+  <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="40" />
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" height="40" />
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VS Code" height="40" />
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="40" />
+  <img src="https://skillicons.dev/icons?i=vercel" alt="Vercel" height="40" />
 </p>
-<br/>
-
 <img align="right" height="250" width="375" alt="Coding GIF" src="https://github.com/Harsh23Kashyap/Harsh23Kashyap/blob/master/coding.gif" />
 
 ## Connect with Me <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50">
