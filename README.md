@@ -20,7 +20,7 @@
 <br/>
 
 ## Hacktoberfest 2025 🧑‍🚀
-![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp?width=50&height=50)
+<img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="100" height="100" alt="Hacktoberfest 2025 Badge">
 
 <br/>
 
@@ -93,7 +93,7 @@
 <br/>
 
 ## My Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aryanraj45&theme=github-compact&area=true&custom_title=Raj's%20Contribution%20Graph&hide_border=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj45&theme=github-compact&hide_border=true&area=true" alt="Raj's Contribution Graph" />
 
 <br/>
 <p align="center">
