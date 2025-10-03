@@ -19,7 +19,6 @@
 
 <br/>
 
-
 ## 🚀 My Tech Stack & Tools
 
 ### 💻 Languages
@@ -76,23 +75,23 @@
 <br/>
 
 ## My Problem Solving 🔥
-[![Leetcode Stats](https://leetcard.jacoblin.cool/YOUR-LEETCODE-USERNAME?theme=unicorn&extension=heatmap)](https://leetcode.com/YOUR-LEETCODE-USERNAME/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/brdoLDGvJ8?theme=unicorn&extension=heatmap)](https://leetcode.com/brdoLDGvJ8/)
 
 <br/>
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&hide_border=true&theme=radical" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj45&show_icons=true&count_private=true&hide_border=true&theme=radical" align="center" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj45&layout=compact&hide_border=true&theme=radical" align="center" />
 </div>
 
 <br/>
 
 ## My Activity
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=YOUR-GITHUB-USERNAME&theme=github-compact&area=true&custom_title=Raj's%20Contribution%20Graph&hide_border=true)
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=aryanraj45&theme=github-compact&area=true&custom_title=Raj's%20Contribution%20Graph&hide_border=true)
 
 <br/>
 <p align="center">
   <b>Visitors</b><br>
-  <img src="https://profile-counter.glitch.me/YOUR-GITHUB-USERNAME/count.svg" />
+  <img src="https://profile-counter.glitch.me/aryanraj45/count.svg" />
 </p>
