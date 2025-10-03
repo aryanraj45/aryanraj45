@@ -19,6 +19,11 @@
 
 <br/>
 
+## Hacktoberfest 2025 🧑‍🚀
+![Hacktoberfest 2025 Badge](https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp?width=50&height=50)
+
+<br/>
+
 ## 🚀 My Tech Stack & Tools
 
 ### 💻 Languages
@@ -75,7 +80,7 @@
 <br/>
 
 ## My Problem Solving 🔥
-[![Leetcode Stats](https://leetcard.jacoblin.cool/brdoLDGvJ8?theme=unicorn&extension=heatmap)](https://leetcode.com/brdoLDGvJ8/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/s-i-d-d-h-a-n-t?theme=unicorn&extension=heatmap)](https://leetcode.com/s-i-d-d-h-a-n-t/)
 
 <br/>
 
