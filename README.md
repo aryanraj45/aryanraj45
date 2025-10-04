@@ -19,8 +19,8 @@
 
 <br/>
 
-## Hacktoberfest 2025 🧑‍🚀
-<img src="https://assets.holopin.io/hf2025levels/lvl0-astronaut.webp" width="100" height="100" alt="Hacktoberfest 2025 Badge">
+## My Badges in Hacktoberfest 🏆
+[![An image of @aryanraj45's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aryanraj45)](https://holopin.io/@aryanraj45)
 
 <br/>
 
