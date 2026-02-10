@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=20C20E&width=435&lines=Hi+I+am+Raj+Aryan;A+Sophomore+Engineer+at+NSUT;Full+Stack+Developer;Open+Source+Contributor;Turning+Challenges+into+Code..." alt="Typing SVG" />
   </a>
 </div>
-
+    
 <br/>
 
 - 🌱 I’m an **Engineering Sophomore** at NSUT, passionate about building for the web and solving complex problems.
