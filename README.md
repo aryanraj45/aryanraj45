@@ -87,7 +87,8 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://metrics.lecoq.io/aryanraj45?template=classic&base=header, activity, community, repositories&config_timezone=Asia/Kolkata" alt="Raj's Metrics" />
+  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj45&show_icons=true&hide_border=true&theme=radical" alt="Raj's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj45&layout=compact&hide_border=true&theme=radical" alt="Raj's Top Languages" />
 </div>
 
 <br/>
