@@ -87,8 +87,8 @@
 
 ## Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aryanraj45&show_icons=true&hide_border=true&theme=radical" alt="Raj's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanraj45&layout=compact&hide_border=true&theme=radical" alt="Raj's Top Languages" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanraj45&show_icons=true&hide_border=true&theme=radical" alt="Raj's GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanraj45&layout=compact&hide_border=true&theme=radical" alt="Raj's Top Languages" />
 </div>
 
 <br/>
