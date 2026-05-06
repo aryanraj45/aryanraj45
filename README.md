@@ -103,7 +103,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=aryanraj45&label=Total+Profile+Views&color=20C20E&style=for-the-badge" alt="Total Profile Views" />
   &nbsp;&nbsp;
-  <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faryanraj45&count_bg=%2320C20E&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Today+%2F+All+Time&edge_flat=false" alt="Today / All Time Visits" />
-  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryanraj45.aryanraj45&left_color=555555&right_color=20c20e&left_text=Visitors" alt="Visitors" style="height:28px" />
 </p>
