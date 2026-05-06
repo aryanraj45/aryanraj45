@@ -13,7 +13,7 @@
 <br/>
 
    
-- 🌱 I’m an **Engineering Sophomore** at NSUT, passionate about building for the web and solving complex problems.
+- 🌱 I'm an **Engineering Sophomore** at NSUT, passionate about building for the web and solving complex problems.
 - 👯 I love to explore new technologies and contribute to the **open-source community**.
 - 💬 Ask me about **Full Stack Development, DSA, Java, or Python**.
 - ⚡ Fun fact: I believe any problem can be solved with a bit of logic and a lot of code!
@@ -97,7 +97,13 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj45&theme=github-compact&hide_border=true&area=true" alt="Raj's Contribution Graph" />
 
 <br/>
+
+## 👀 Profile Visitors
+
 <p align="center">
-  <b>Visitors</b><br>
-  <img src="https://profile-counter.glitch.me/aryanraj45/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=aryanraj45&label=Total+Profile+Views&color=20C20E&style=for-the-badge" alt="Total Profile Views" />
+  &nbsp;&nbsp;
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Faryanraj45&count_bg=%2320C20E&title_bg=%23555555&icon=github.svg&icon_color=%23ffffff&title=Today+%2F+All+Time&edge_flat=false" alt="Today / All Time Visits" />
+  </a>
 </p>
