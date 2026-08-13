@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" width="100%" />
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="">
+<br><br>
 </div>
 
 <br/>
@@ -128,3 +129,4 @@
   &nbsp;&nbsp;
   <img src="https://visitor-badge.laobi.icu/badge?page_id=aryanraj45.aryanraj45&left_color=555555&right_color=20c20e&left_text=Visitors" alt="Visitors" style="height:28px" />
 </p>
+]
