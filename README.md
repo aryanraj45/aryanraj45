@@ -101,32 +101,4 @@
 <br/>
 <br/>
 
-## 🔥 Problem Solving
 
-300+ problems solved on LeetCode & GFG.
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=unicorn&extension=heatmap)](https://leetcode.com/YOUR_LEETCODE_USERNAME/)
-
-<br/>
-
-## 📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=aryanraj45&show_icons=true&hide_border=true&theme=radical" alt="Raj's GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aryanraj45&layout=compact&hide_border=true&theme=radical" alt="Raj's Top Languages" />
-</div>
-
-<br/>
-
-## 📈 Activity
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanraj45&theme=github-compact&hide_border=true&area=true" alt="Raj's Contribution Graph" />
-
-<br/>
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aryanraj45&label=Total+Profile+Views&color=20C20E&style=for-the-badge" alt="Total Profile Views" />
-  &nbsp;&nbsp;
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=aryanraj45.aryanraj45&left_color=555555&right_color=20c20e&left_text=Visitors" alt="Visitors" style="height:28px" />
-</p>
-]
